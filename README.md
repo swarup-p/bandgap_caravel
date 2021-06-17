@@ -1,11 +1,21 @@
-# Caravel User Project
+# Bandgap Reference Design
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![UPRJ_CI](https://github.com/efabless/caravel_project_example/actions/workflows/user_project_ci.yml/badge.svg)](https://github.com/efabless/caravel_project_example/actions/workflows/user_project_ci.yml) [![Caravel Build](https://github.com/efabless/caravel_project_example/actions/workflows/caravel_build.yml/badge.svg)](https://github.com/efabless/caravel_project_example/actions/workflows/caravel_build.yml)
+Please refer to this git repo for detailed design information[link](https://github.com/vsdip/avsdbgp_3v3_sky130_v1)
 
-| :exclamation: Important Note            |
-|-----------------------------------------|
+A simple bandgap topology is evaluated with a set of simulations and then implemented in open-source EDA tools.
 
-## Please fill in your project documentation in this README.md file 
+# Bandgap Performance Characteristics
+
+| Parameter| Description| Min | Type | Max | Unit | Condition |
+| :---:  | :-: | :-: | :-: | :---:  | :-: | :-: |
+|Technology| 130 nm CMOS Process |
+|RL|Load resistance at Vbgp terminal | 100|||Mohm|VDD=3.3V, T=27C|
+|Vbgp|Output Reference voltage|1.197642|1.201057|1.212476|V|T=-40 to 140C, VDD=3.3V|
+|Vbgp|Output Reference voltage|1.178285|1.201057|1.211677|V|VDD=2.7V to VDD=3.6V, T=27C|
+|TC_vbgp|Temperature Coefficient of Vbgp||6.8717||ppm/C|T=-40 to 140C, VDD=3.3V|
+|VC_vbgp|Voltage Coefficient of Vbgp||2.7802||%/V|VDD=2.7V to 3.6, T=27C|
+|VDD|Supply Voltage|3.2|3.3|3.6|V|T=-40C to 140C|
+|IDD|Supply Current||3.954||uA|EN=1|
+|IDD|Supply Current||607.836||nA|EN=0|
 
 
-Refer to [README](docs/source/index.rst) for this sample project documentation. 
