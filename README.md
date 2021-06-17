@@ -1,5 +1,7 @@
 # Bandgap Reference Design
 
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 A simple bandgap topology is evaluated with a set of simulations and then implemented in open-source EDA tools.
 Please refer to this git repo for detailed information on the design (https://github.com/vsdip/avsdbgp_3v3_sky130_v1).
 
