@@ -17,4 +17,23 @@ Please refer to this git repo for detailed information on design (https://github
 |IDD|Supply Current||3.954||uA|EN=1|
 |IDD|Supply Current||607.836||nA|EN=0|
 
+#
 
+Here are some reference links used to learn to design in open source EDA tools and about bandgap reference circuit design.
+
+1. https://github.com/nickson-jose/vsdstdcelldesign
+
+2. https://github.com/praharshapm/vsdmixedsignalflow
+
+3. https://github.com/sherylcorina/avsdbgp_3v3
+
+4. https://github.com/an3ol/General-purpose-Bandgap-Reference-avsdbgp_3v3
+
+5. https://www.udemy.com/course/vlsi-academy-custom-layout/
+
+# Acknowledgement
+
+Kunal Ghosh - Co-founder (VSD Corp. Pvt. Ltd)
+Tim Edwards - Senior Vice President of Analog and Design at efabless corporation
+Anmol Purty - VSD Intern
+Sheryl Serrao - VSD Intern
