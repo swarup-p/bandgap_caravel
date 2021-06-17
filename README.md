@@ -1,8 +1,7 @@
 # Bandgap Reference Design
 
-Please refer to this git repo for detailed design information[link](https://github.com/vsdip/avsdbgp_3v3_sky130_v1)
-
 A simple bandgap topology is evaluated with a set of simulations and then implemented in open-source EDA tools.
+Please refer to this git repo for detailed information on design (https://github.com/vsdip/avsdbgp_3v3_sky130_v1).
 
 # Bandgap Performance Characteristics
 
