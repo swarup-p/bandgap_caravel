@@ -33,7 +33,7 @@ Here are some reference links used to learn to design in open source EDA tools a
 
 # Acknowledgement
 
-Kunal Ghosh - Co-founder (VSD Corp. Pvt. Ltd)
-Tim Edwards - Senior Vice President of Analog and Design at efabless corporation
-Anmol Purty - VSD Intern
-Sheryl Serrao - VSD Intern
+* [Kunal Ghosh - Co-founder (VSD Corp. Pvt. Ltd)](https://github.com/kunalg123)
+* Tim Edwards - Senior Vice President of Analog and Design at efabless corporation
+* Anmol Purty - VSD Intern
+* Sheryl Serrao - VSD Intern
